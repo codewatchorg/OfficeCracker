@@ -29,7 +29,7 @@ SYNOPSIS
     Optional Dependencies: None
 
 SYNTAX    
-  Invoke-OfficeCracker [[-officetype] <Object>] [[-officefile] <Object>] [[-passlist] <Object>] [-verbose] [<CommonParameters>]
+  Invoke-OfficeCracker [[-officetype] &lt;Object&gt;] [[-officefile] &lt;Object&gt;] [[-passlist] &lt;Object&gt;] [-verbose] [&lt;CommonParameters&gt;]
 
 DESCRIPTION    
   This module loops through passwords and attempts to decrypt an office file.
