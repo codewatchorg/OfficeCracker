@@ -15,6 +15,7 @@ Office installation
 
 Usage
 =====
+<pre>
 NAME    
   Invoke-OfficeCracker
   
